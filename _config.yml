@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "kting-blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -280,14 +280,14 @@ compress_html:
     envs: development
 
 
-# Defaults
+# Defaults  文章的預設配置
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single # 除非文章 header 提供採用的 layout，否則預設的 layout 為 single
       author_profile: true
       read_time: true
       comments: true
