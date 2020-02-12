@@ -3,9 +3,12 @@ title:  "建立部落格初體驗(1)"
 date:   2020-02-05 21:10:42 +0800
 
 tags:
-  - jekyll
+  - jekyll blog
 header:
     teaser: https://i.imgur.com/U2zFN2b.png
+
+toc: ture
+toc_label: "概覽"
 ---
 
 # 前言
@@ -18,7 +21,7 @@ header:
 
 ---
 
-# 1. 在Windows系統中安裝 jekyll
+# 1. 在 Windows 系統中安裝 jekyll
 安裝的教學可參考[jekyll官網](https://jekyllrb.com/docs/installation/windows/)。
 
 在安裝 jeykll 之前，必須先安裝 Ruby。而最簡單的方式是透過[RubyInstaller](https://rubyinstaller.org/)安裝。
