@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "K.T. Lee" # 側邊作者名稱
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "" # 側邊作者簡介
+  avatar           : "/assets/IMG_Avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "學習、吸收，不停向前。" # 側邊作者簡介
   location         : "Tainan, Taiwan"
   email            :
   links:
