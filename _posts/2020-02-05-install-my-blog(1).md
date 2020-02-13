@@ -1,5 +1,5 @@
 ---
-title:  "建立部落格初體驗(1)"
+title:  "透過 Jekyll 與 GitHub Pages 建立自己的部落格(1)"
 date:   2020-02-05 21:10:42 +0800
 
 tags:
