@@ -1,0 +1,28 @@
+{% if page.previous or page.next %}
+  <nav class="MYpagination">
+    <div class='item'>上一篇：
+    {% if page.previous %}
+    <span>
+      <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title | markdownify | strip_html }}</a>
+    </span>
+    {% else %}
+    <span class='MYpagination--empty'>
+      已經是第一篇文章囉
+    </span>
+    {% endif %}
+    </div>
+
+    <div class='item'>下一篇：
+    {% if page.next %}
+    <span>
+      <a href="{{ page.next.url | relative_url }}">
+      {{ page.next.title | markdownify | strip_html }}</a>
+    </span>
+    {% else %}
+    <span class='MYpagination--empty'>
+      已經是最新的文章囉
+    </span>
+    {% endif %}
+    </div>
+  </nav>
+{% endif %}
