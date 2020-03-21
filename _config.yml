@@ -290,7 +290,7 @@ defaults:
     values:
       layout: single # 除非文章 header 提供採用的 layout，否則預設的 layout 為 single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: false
       related: true
