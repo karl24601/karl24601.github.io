@@ -6,6 +6,7 @@ main:
     url: /
   - title: "About"
     url: /About/
+    description: "關於我"
   - title: "Year Archive"
     url: /year-archive/
   - title: "Tags Archive"
