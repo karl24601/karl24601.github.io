@@ -3,8 +3,7 @@ title: "關於我"
 permalink: /About/
 layout: single
 author_profile: true
-toc: ture
-toc_label: "概覽"
+toc: false
 ---
 
 ## 自介
