@@ -5,5 +5,5 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /About/
+    url: /about/
     description: "關於我"

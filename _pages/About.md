@@ -1,6 +1,6 @@
 ---
 title: "關於我"
-permalink: /About/
+permalink: /about/
 layout: single
 author_profile: true
 toc: false
