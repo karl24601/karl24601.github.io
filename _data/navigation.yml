@@ -7,9 +7,3 @@ main:
   - title: "About"
     url: /About/
     description: "關於我"
-  - title: "Year Archive"
-    url: /year-archive/
-  - title: "Tags Archive"
-    url: /tags-archive/
-  - title: "Sitemap"
-    url: /sitemap/
