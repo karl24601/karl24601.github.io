@@ -17,10 +17,7 @@ excerpt: "在本機建構 Minimal Mistakes 主題的靜態網站"
 - 介紹怎麼新增文章。
 - 介紹如何初步使用 GitHub Desktop。
 
-<aside>
-💡 在參考以下執行方式前，電腦應該要具備 Ruby, Gem, Jekyll, Bundle 囉！
-
-</aside>
+> 💡 在參考以下執行方式前，電腦應該要具備 Ruby, Gem, Jekyll, Bundle 囉！
 
 ## 先在本機將 Minimal Mistakes 建構起來
 
@@ -47,10 +44,7 @@ excerpt: "在本機建構 Minimal Mistakes 主題的靜態網站"
     bundle exec jekyll serve --livereload --host 0.0.0.0 --trace
     ```
     
-    <aside>
-    💡 如果執行時報錯，可能又是 webrick 在搞鬼，可以仔細看一下錯誤內容。如果是的話，就執行 `bundle add webrick`，並重複步驟 4。
-    
-    </aside>
+    > 💡 如果執行時報錯，可能又是 webrick 在搞鬼，可以仔細看一下錯誤內容。如果是的話，就執行 `bundle add webrick`，並重複步驟 4。
     
 - 2). 安裝完成後，應該可以在 [`http://localhsot:4000`](http://localhsot:4000) 中看到 Minimal Minstakes 的主題畫面。
     
@@ -170,10 +164,7 @@ excerpt: "在本機建構 Minimal Mistakes 主題的靜態網站"
     remote_theme: "lktinglee/lktinglee.github.io@main"
     ```
     
-    <aside>
-    💡 之所以 `remote_theme` 結尾要加上 `@main`，是因為 GitHub 預設的 branch 是 main。
-    
-    </aside>
+    > 💡 之所以 `remote_theme` 結尾要加上 `@main`，是因為 GitHub 預設的 branch 是 main。
     
 - 2). 一樣執行 `bundle exec jekyll serve --livereload --host 0.0.0.0 --trace`
     - 照理說能看到與 Gem-based method 一樣的畫面。
