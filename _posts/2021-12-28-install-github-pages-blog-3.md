@@ -3,12 +3,14 @@ title: "利用 GitHub Pages 建立部落格-3"
 date: "2021-12-28"
 
 tags:
-    - GitHub-Pages
+    - 利用 GitHub Pages 建立部落格
+    - GitHub Pages
+    - Minimal Mistakes
+    - Jekyll
+    - Jekyll Theme
+    - blog
 
-toc: ture
-toc_label: "概覽"
-
-excerpt: "在本機建構 Minimal Mistakes 主題的靜態網站"
+excerpt: "Minimal Mistakes 怎麼看得唏哩花啦的QQ，放心，這篇文章帶你看 Minimal Mistakes 安裝方式，還有 GitHub Pages 要怎麼呈現漂亮的頁面！"
 ---
 
 ## 本篇重點

@@ -1,12 +1,14 @@
 ---
-title:  "利用 GitHub Pages 建立部落格-1"
-date:   "2021-12-28"
+title: "利用 GitHub Pages 建立部落格-1"
+date: "2021-12-28"
 
 tags:
-    - GitHub-Pages
+    - 利用 GitHub Pages 建立部落格
+    - GitHub Pages
+    - Jekyll
+    - blog
 
-toc: ture
-toc_label: "概覽"
+excerpt: "GitHub Pages 會使用 Jekyll 吃「上傳到 GitHub 的文件」來生成靜態網站！想親手建立 GitHub Pages 部落格不要錯過！"
 ---
 
 ## 本篇重點

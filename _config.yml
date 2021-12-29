@@ -296,4 +296,5 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+      toc_label: "概覽"
       sitemap: true

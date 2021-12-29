@@ -1,12 +1,17 @@
 ---
-title:  "利用 GitHub Pages 建立部落格-2"
-date:   "2021-12-28"
+title: "利用 GitHub Pages 建立部落格-2"
+date: "2021-12-28"
 
 tags:
-    - GitHub-Pages
+    - 利用 GitHub Pages 建立部落格
+    - GitHub Pages
+    - Minimal Mistakes
+    - Jekyll
+    - Jekyll Theme
+    - blog
 
-toc: ture
-toc_label: "概覽"
+excerpt: "初始化一個 Jekyll 靜態網站，但是好醜...如何套用他人的 Jekyll Theme 呢？ Jekyll, Ruby, Gem？ 要讓部落格變漂亮的朋友不要錯過！"
+
 ---
 
 ## 本篇重點
