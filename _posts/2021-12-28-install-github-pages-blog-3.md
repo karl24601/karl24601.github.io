@@ -18,6 +18,7 @@ excerpt: "Minimal Mistakes 怎麼看得唏哩花啦的QQ，放心，這篇文章
 - 在本機建構 Minimal Mistakes 主題的靜態網站。
 - 介紹怎麼新增文章。
 - 介紹如何初步使用 GitHub Desktop。
+- 介紹如何將 Minimal Mistakes 主題套用到 GitHub Pages。
 
 > 💡 在參考以下執行方式前，電腦應該要具備 Ruby, Gem, Jekyll, Bundle 囉！
 
