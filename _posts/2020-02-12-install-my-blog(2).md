@@ -11,6 +11,8 @@ toc: ture
 toc_label: "概覽"
 ---
 
+> 菜雞時期寫的文章，建議看新的[版本](/install-github-pages-blog-1)。
+
 # 前言
 在上一篇，提到如何在 Windows 系統安裝 Ruby 以及 jekyll，並且透過 GitHub 建立一個存放部落格內容的 repository，同時選擇部落格的基本模板。
 而本篇將會介紹如何打造個人化的部落格，並且發一篇文章～
