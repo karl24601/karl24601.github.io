@@ -1,5 +1,5 @@
 ---
-title: "利用 GitHub Pages 建立部落格-2"
+title: "如何用 Jekyll 建立一個靜態網站？ - GitHub Pages x Jekyll x Blog"
 date: "2021-12-28"
 
 tags:
@@ -10,7 +10,10 @@ tags:
     - Jekyll Theme
     - blog
 
-excerpt: "初始化一個 Jekyll 靜態網站，但是好醜...如何套用他人的 Jekyll Theme 呢？ Jekyll, Ruby, Gem？ 要讓部落格變漂亮的朋友不要錯過！"
+excerpt: "
+    GitHub Pages x Jekyll x Blog 第二篇！
+    初始化一個 Jekyll 靜態網站，但是好醜...如何套用他人的 Jekyll Theme 呢？ Jekyll, Ruby, Gem？ 要讓部落格變漂亮的朋友不要錯過！
+    "
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "利用 GitHub Pages 建立部落格-1"
+title: "如何用 GitHub Pages 建立部落格？ - GitHub Pages x Jekyll x Blog"
 date: "2021-12-28"
 
 tags:
@@ -8,7 +8,10 @@ tags:
     - Jekyll
     - blog
 
-excerpt: "GitHub Pages 會使用 Jekyll 吃「上傳到 GitHub 的文件」來生成靜態網站！想親手建立 GitHub Pages 部落格不要錯過！"
+excerpt: "
+    GitHub Pages x Jekyll x Blog 首部曲！本系列會說明如何利用 GitHub Pages 建立自己的網站(靜態網站)。
+    GitHub Pages 是透過文件維護，不涉及任何資料庫。想親手建立 GitHub Pages 部落格不要錯過！
+    "
 ---
 
 ## 本篇重點

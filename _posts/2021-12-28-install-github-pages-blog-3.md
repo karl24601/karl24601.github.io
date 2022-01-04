@@ -1,5 +1,5 @@
 ---
-title: "利用 GitHub Pages 建立部落格-3"
+title: "如何套用別人的 Jekyll 主題？ - GitHub Pages x Jekyll x Blog"
 date: "2021-12-28"
 
 tags:
@@ -10,7 +10,10 @@ tags:
     - Jekyll Theme
     - blog
 
-excerpt: "Minimal Mistakes 怎麼看得唏哩花啦的QQ，放心，這篇文章帶你看 Minimal Mistakes 安裝方式，還有 GitHub Pages 要怎麼呈現漂亮的頁面！"
+excerpt: "
+    GitHub Pages x Jekyll x Blog 第三篇！
+    Minimal Mistakes 怎麼看得唏哩花啦的QQ，放心，這篇文章帶你看 Minimal Mistakes 安裝方式，還有 GitHub Pages 要怎麼呈現漂亮的頁面！
+    "
 ---
 
 ## 本篇重點
