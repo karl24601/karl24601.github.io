@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "K.T. Lee" # 側邊作者名稱
+  name             : "Grundgesetz" # 側邊作者名稱
   avatar           : "/assets/IMG_Avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "學習、吸收，不停向前。" # 側邊作者簡介
-  location         : "Tainan, Taiwan"
+  location         : "Zhengzhou, China"
   email            :
   links:
     - label: "Email"
@@ -118,7 +118,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "HomePage"
       icon: "fas fa-fw fa-link"
-      url: "https://ktinglee.github.io/"
+      url: "https://github.com/karl24601"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:  "https://github.com/KTingLee"
+      url:  "https://github.com/karl24601"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
