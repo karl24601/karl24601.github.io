@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Grundgesetz" # 側邊作者名稱
   avatar           : "/assets/IMG_Avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "什麽是你的義務？————日常的工作。" # 側邊作者簡介
+  bio              : "什麽是你的義務？──日常的工作。" # 側邊作者簡介
   location         : "Zhengzhou, China"
   email            :
   links:
