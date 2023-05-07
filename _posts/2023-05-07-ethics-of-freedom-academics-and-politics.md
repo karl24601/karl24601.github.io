@@ -5,8 +5,8 @@ date: "2023-05-07"
 tags:
     - 韦伯
     - 李猛
-    - Jekyll
-    - blog
+    - 转载
+    - 社会学
 
 excerpt: "
     李猛/著
